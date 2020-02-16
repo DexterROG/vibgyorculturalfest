@@ -1,0 +1,37 @@
+body{
+    background-image:url(../registration/abcd.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bg{
+    background-color: rgb(182, 97, 97);
+    background-size:cover;
+}
+.background{
+    
+}
+.jumbotron{
+
+    margin-left:2px;
+}
+   
+  .ml{
+      margin-left: 40px;
+      margin-bottom: 10%;
+  }
+
+  .nava{
+    border-bottom: rgb(0, 153, 255) 6px solid;
+  }
+  .align{
+      text-align: left;
+  }
+  .bg1{
+      background-color: rgb(233, 213, 213);
+      padding-bottom: 10px;
+      padding-top: 5px;
+      border-style:solid;
+      border-color: rgba(213, 167, 226, 0.658);
+      border-width: 5px;
+  }
