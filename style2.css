@@ -41,7 +41,7 @@
 
   #home-heading {
     position: relative;
-    min-height: 200px;
+    min-height: 170px;
     background: url("bg2.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -162,5 +162,11 @@
 @media only screen and (max-width: 525px){
   .button{
       margin-left: 38%;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  #home-heading {
+    min-height: 200px;
   }
 }
