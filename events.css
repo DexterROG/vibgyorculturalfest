@@ -1,6 +1,6 @@
 .event-button {
     height: 40px;
-    transition: 0.2s ease-in-out;
+    transition: 0.1s ease-in-out;
     width: 100px;
     border: 2px solid white;
     background-color: #161616;
