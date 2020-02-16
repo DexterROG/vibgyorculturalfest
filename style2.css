@@ -136,6 +136,23 @@
   color: #fff;
 }
 
+.container-fill {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.fill {
+  box-shadow: 0px 0px 7px 4px grey;
+  margin: 10px;
+  height: 260px;
+  width: 360px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+}
+
 @media only screen and (max-width: 992px) and (min-width: 768px){
   .button{
       margin-left: 33.5%;
