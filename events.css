@@ -1,0 +1,14 @@
+.event-button {
+    height: 40px;
+    transition: 0.2s ease-in-out;
+    width: 100px;
+    border: 2px solid white;
+    background-color: #161616;
+    color: white;
+    border-radius: 2px;
+    font-weight: 600;
+}
+.event-button:hover {
+    background-color: white;
+    color: #161616;
+}
