@@ -10,4 +10,8 @@
   .navbar{
     border-bottom: rgb(255, 230, 0) 6px solid;
   }
+
+  .rounded-circle {
+    box-shadow: 0px 0px 8px 5px #dfe0e5;
+  }
   
