@@ -87,7 +87,7 @@
     background: url('img/media.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: 0 -300px;
+    background-position: center;
     text-align: center;
     color: #fff;
   }
