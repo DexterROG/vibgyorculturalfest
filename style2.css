@@ -2,6 +2,10 @@
   border-bottom: rgb(0, 153, 255) 6px solid;
 }
 
+#myCarousel {
+  font-family: 'Montserrat', sans-serif;
+}
+
   .size{
     text-size-adjust: 20px;
   }
