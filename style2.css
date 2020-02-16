@@ -29,17 +29,20 @@
   .carousel-img-1 {
     background-image: url('a.jpg');
     background-size: cover;
+    background-position: center;
     height: 100;
   }
   
   .carousel-image-2 {
     background-image: url('b..jpg');
     background-size: cover;
+    background-position: center;
   }
   
   .carousel-image-3 {
     background: url('img/photos/kk.jpeg');
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
   }
 
@@ -132,7 +135,6 @@
 
  .jumbotron {
   position: relative;
-  min-height: 200px;
   background-image: url("bg.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -173,5 +175,11 @@
 @media only screen and (max-width: 768px){
   #home-heading {
     min-height: 200px;
+  }
+}
+
+@media only screen and (max-width: 532px){
+  #video-play {
+    min-height: 250px;
   }
 }
