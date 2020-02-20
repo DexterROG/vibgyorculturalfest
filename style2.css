@@ -84,7 +84,7 @@
   #video-play {
     position: relative;
     min-height: 200px;
-    background: url('img/media.jpg');
+    background: url('.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
