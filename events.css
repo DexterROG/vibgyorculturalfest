@@ -47,3 +47,12 @@
     background-size: contain;
     background-position: center;
   }
+
+  #projects {
+    padding-bottom: 0px;
+  }
+
+  #main-footer {
+    background-color: black;
+    color: #fff;
+  }
