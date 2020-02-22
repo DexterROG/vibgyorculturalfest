@@ -40,10 +40,11 @@
   }
   
   .carousel-img-1 {
-    background-image: url('a.jpg');
+    background-image: url('../vibgyorculturalfest-master/vib2020.jpeg');
     background-size: cover;
+    
     background-position: center;
-    height: 100;
+    
   }
   
   .carousel-image-2 {
@@ -84,7 +85,7 @@
   #video-play {
     position: relative;
     min-height: 200px;
-    background: url('.jpg');
+    background: url('../vibgyorculturalfest-master/bg.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;

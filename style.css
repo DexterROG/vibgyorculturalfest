@@ -48,3 +48,14 @@ html{
 .mark{
     margin-left: 2%;
   }
+
+  #video-play {
+    position: relative;
+    min-height: 200px;
+    background: url('../vibgyorculturalfest-master/bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+  }
