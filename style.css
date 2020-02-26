@@ -52,7 +52,7 @@ html{
   #video-play {
     position: relative;
     min-height: 200px;
-    background: url('../vibgyorculturalfest-master/bg.jpg');
+    background: url('bg.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
