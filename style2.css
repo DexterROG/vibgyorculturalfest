@@ -41,7 +41,7 @@
   
   .carousel-img-1 {
     background-image: url('Compressed pics/vib2020.jpeg');
-    background-size: 100% 100%;
+    background-size:cover;
     
     background-position: center;
     
@@ -55,7 +55,7 @@
   
   .carousel-image-3 {
     background: url('Compressed pics/back.jpeg');
-    background-size: 100% 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
   }
